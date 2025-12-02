@@ -1,3 +1,3 @@
 git add .
-git commit -m "Adicionando todos os arquivos"
-git push origin main
+git commit -m "Adicionando o link"
+git push origin principal
